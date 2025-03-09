@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutoHub</string>
+    <string name="user_information">user_information.txt</string>
+    <string name="module_information">module_information.txt</string>
+    <string name="timetable_monday">timetable_monday.txt</string>
+    <string name="timetable_tuesday">timetable_tuesday.txt</string>
+    <string name="timetable_wednesday">timetable_wednesday.txt</string>
+    <string name="timetable_thursday">timetable_thursday.txt</string>
+    <string name="timetable_friday">timetable_friday.txt</string>
+    <string name="remember_me">remember_me.txt</string>
+    <string name="ExamData">examData.txt</string>
+</resources>
