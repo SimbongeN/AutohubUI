@@ -1,4 +1,4 @@
-# AutoHub - AI Timetable Assistant
+# AutoHub - AI Timetable Assistant  (UI REPO)
 
 ## Overview
 AutoHub is an AI-powered timetable assistant designed for university students. It helps in organizing schedules, tracking assignments, and setting reminders, making student life more manageable.
