@@ -29,3 +29,32 @@ AutoHub is an AI-powered timetable assistant designed for university students. I
    ```sh
    git clone https://github.com/SimbongeN/AutohubUI.git
    ```
+## Backend Setup
+1. Clone the backend repository:
+2. The backend consists of two separate services:
+- **Java Backend**: Handles core timetable processing and authentication.
+- **Python Backend**: Provides additional API endpoints for specific features.
+
+   1. Java
+   ```sh
+   git clone https://github.com/SimbongeN/AutoHub_sever.git
+   ```
+   2.  Python
+   ```sh
+   git clone https://github.com/SimbongeN/python_serverEndpoint.git
+   ```
+
+
+## Future Features
+- **Attendance Tracker**: AI model for tracking attendance.
+- **Study Timetable Generation**: Planned release by February.
+- **Chat Room**: Study group chats and module-based discussions.
+
+## Contributing
+Pull requests are welcome. Please ensure all changes are well-documented.
+
+## License
+MIT License
+
+
+- For any issues or suggestions, feel free to open an issue in the repository or contact support.
