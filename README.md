@@ -54,7 +54,7 @@ AutoHub is an AI-powered timetable assistant designed for university students. I
 Pull requests are welcome. Please ensure all changes are well-documented.
 
 ## License
-MIT License
+[CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
 - For any issues or suggestions, feel free to open an issue in the repository or contact support.
