@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit
 
 //remove android:usesCleartextTraffic="true" in the manifest .xml file
 object RetrofitInstance {
-    private const val baseUrl = "https://autohubsever-production.up.railway.app/"
+    private const val baseUrl = ""
 
     private fun getInstance(username:String, password:String): Retrofit {
         // Encode credentials in Base64
